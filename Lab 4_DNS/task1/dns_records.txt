@@ -1,0 +1,13 @@
+Name                Value                   Type    TTL
+cse.du.ac.bd.       ns1.cse.du.ac.bd.       NS      86400
+cse.du.ac.bd.       ns2.cse.du.ac.bd.       NS      86400
+ns1.cse.du.ac.bd.   192.0.2.1               A       86400
+ns2.cse.du.ac.bd.   192.0.2.2               A       86400
+ns1.cse.du.ac.bd.   2001:db8::1             AAAA    86400
+ns2.cse.du.ac.bd.   2001:db8::2             AAAA    86400
+cse.du.ac.bd.       192.0.2.3               A       86400
+cse.du.ac.bd.       2001:db8::3             AAAA    86400
+www.cse.du.ac.bd.   cse.du.ac.bd.           CNAME   86400
+cse.du.ac.bd.       10 mail.cse.du.ac.bd.   MX      86400
+mail.cse.du.ac.bd.  192.0.2.4               A       86400
+mail.cse.du.ac.bd.  2001:db8::4             AAAA    86400
